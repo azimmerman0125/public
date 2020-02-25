@@ -12,17 +12,20 @@ Some of the resources may require subscription or fee based.  I will do my best 
 * [AWS Training](https://aws.amazon.com/training/)
 * [AWS re:Invent](https://reinvent.awsevents.com/)
 * [AWS on YouTube](https://www.youtube.com/user/AmazonWebServices)
+* [AWS Cert Prep](https://aws.amazon.com/certification/certification-prep/)
+* [AWS Resources Data Sheet](https://d0.awsstatic.com/training-and-certification/docs/datasheet_trainingcert_certificationprep_guide.pdf)
 
 ## General Services
 
 * [Linux Academy](https://wwww.linuxacademy.com)
 * [A Cloud Guru](https://acloud.guru/)
-
+* [Whizlabs](https://www.whizlabs.com/blog/aws-certified-solutions-architect-associate-guide/)
 
 ## AWS Solutions Architect Associate Resources
-[AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+* [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 
 ## Community Resources
 * [Reddit/r/aws](https://www.reddit.com/r/aws)
 * [AWS Stash re:Invent Repository](https://awsstash.com/)
+* [leonardofed AWS Resources](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc)
